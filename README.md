@@ -2,6 +2,10 @@
 
 A knigt of your guild.
 
+.. image:: https://discord.com/api/guilds/815510311774847016/embed.png
+   :target: https://discord.gg/Yrs5HEYdJq
+   :alt: Discord server invite
+
 ## What is this?
 
 It's a discord bot run in [node.js](https://nodejs.org)</br>
